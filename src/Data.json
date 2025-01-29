@@ -1,0 +1,403 @@
+[
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "description": "High-quality noise-canceling headphones with Bluetooth connectivity.",
+      "price": 129.99,
+      "category": "Electronics",
+      "image" : "https://avstore.in/cdn/shop/products/white_3_3093d672-26df-4383-99eb-1684f8423e29.png?v=1628788651"
+    },
+    {
+      "id": 2,
+      "name": "Gaming Mouse",
+      "description": "Ergonomic mouse with customizable buttons and RGB lighting.",
+      "price": 59.99,
+      "category": "Electronics",
+      "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHzTc5jFdqC4n4o7wrANgWkdCcoQJts2ldYQ&s"
+    },
+    {
+      "id": 3,
+      "name": "Yoga Mat",
+      "description": "Non-slip yoga mat with excellent cushioning for all exercises.",
+      "price": 24.99,
+      "category": "Fitness",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmy4Q7iG2wzy9RzKElz9Jg_tthD9CDKPKfwqwGz0tSqYJ8-d1LhenBPoU4cpSwXPa_6us&usqp=CAU"
+    },
+    {
+      "id": 4,
+      "name": "Laptop Stand",
+      "description": "Adjustable laptop stand with ventilation to keep your device cool.",
+      "price": 39.99,
+      "category": "Accessories",
+      "image" : "https://img.freepik.com/premium-photo/standing-laptop-holder-set-up-with-notebook-desk_928017-310.jpg?semt=ais_incoming"
+    },
+    {
+      "id": 5,
+      "name": "Portable Charger",
+      "description": "10,000mAh power bank with fast-charging capabilities.",
+      "price": 25.99,
+      "category": "Electronics",
+      "image" : "https://i.pinimg.com/564x/c2/2f/16/c22f16486e0954635a6b6dffe6d81eb6.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Running Shoes",
+      "description": "Lightweight and durable running shoes for all terrains.",
+      "price": 79.99,
+      "category": "Footwear",
+      "image": "https://images.meesho.com/images/products/41747796/hcpit_512.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Smart Watch",
+      "description": "Feature-packed smartwatch with fitness tracking and notifications.",
+      "price": 199.99,
+      "category": "Electronics",
+      "image": "https://m.media-amazon.com/images/I/61-OGVGPEJL.jpg"
+    },
+    {
+      "id": 8,
+      "name": "LED Desk Lamp",
+      "description": "Energy-efficient desk lamp with adjustable brightness levels.",
+      "price": 34.99,
+      "category": "Home",
+      "image" : "https://m.media-amazon.com/images/I/718cqlfAZkL.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Stainless Steel Water Bottle",
+      "description": "Insulated water bottle to keep beverages hot or cold.",
+      "price": 19.99,
+      "category": "Fitness",
+      "image" : "https://m.media-amazon.com/images/I/41GC5Z0FrhL.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Backpack",
+      "description": "Durable and spacious backpack with multiple compartments.",
+      "price": 49.99,
+      "category": "Accessories",
+      "image" : "https://img.freepik.com/premium-photo/laptop-backpack-hd-8k-wallpaper-stock-photographic-image_677426-6427.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Mechanical Keyboard",
+      "description": "RGB backlit keyboard with customizable keys and switches.",
+      "price": 89.99,
+      "category": "Electronics",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ27HfbiiwZNVLBG7PQWECHqKqZHzmHh-1FWg&s"
+    },
+    {
+      "id": 12,
+      "name": "Wireless Earbuds",
+      "description": "Compact and comfortable earbuds with excellent sound quality.",
+      "price": 69.99,
+      "category": "Electronics",
+      "image": "https://images.jdmagicbox.com/quickquotes/images_main/blaupunkt-btw01-true-wireless-hd-sound-bluetooth-earbuds-with-touch-controls-178114195-88ujx.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Smartphone Case",
+      "description": "Shock-resistant case to protect your phone from drops and scratches.",
+      "price": 15.99,
+      "category": "Accessories",
+      "image":"https://m.media-amazon.com/images/I/51qoMyr9lLL.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Bluetooth Speaker",
+      "description": "Portable speaker with deep bass and long battery life.",
+      "price": 54.99,
+      "category": "Electronics",
+      "image": "https://m.media-amazon.com/images/I/81nAbyYsOhL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Cookware Set",
+      "description": "Non-stick cookware set with multiple pots and pans.",
+      "price": 99.99,
+      "category": "Kitchen",
+      "image" : "https://media.istockphoto.com/id/1273858537/photo/set-of-black-non-stick-kitchen-utensils-on-a-white-background-pot-ladle-frying-pan-with-glass.jpg?s=612x612&w=0&k=20&c=pfipthUh9KH2w9ouUMvLrHTtybB51TaO4Em_WTspW6E="
+    },
+    {
+      "id": 16,
+      "name": "Fitness Tracker",
+      "description": "Waterproof fitness tracker with heart rate monitor and step counter.",
+      "price": 49.99,
+      "category": "Fitness",
+      "image": "https://t4.ftcdn.net/jpg/09/51/15/75/360_F_951157525_SxIdVDRJWeOVGrj6JLomTZRQs2PzPALK.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Office Chair",
+      "description": "Ergonomic office chair with lumbar support and adjustable height.",
+      "price": 159.99,
+      "category": "Furniture",
+      "image": "https://m.media-amazon.com/images/I/41LHqAXFaeL.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Electric Kettle",
+      "description": "Fast-boiling electric kettle with automatic shut-off feature.",
+      "price": 29.99,
+      "category": "Kitchen",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRABEhAtIVgKaAl4bHK6-qWmsazNPDi7JTs2w&s"
+    },
+    {
+      "id": 19,
+      "name": "Wireless Charger",
+      "description": "Qi-certified wireless charger for smartphones and earbuds.",
+      "price": 22.99,
+      "category": "Electronics",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxCRRHffhiA-ykAeKFtG5spqDTgL5r-6lkJg&s"
+    },
+    {
+      "id": 20,
+      "name": "Digital Camera",
+      "description": "Compact digital camera with high-resolution image capture.",
+      "price": 299.99,
+      "category": "Electronics",
+      "image": "https://images-cdn.ubuy.co.in/64076fc3986ebc2f1a7a9f35-digital-camera-fhd-1080p-digital-point.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Camping Tent",
+      "description": "Waterproof tent for up to 4 people with easy setup.",
+      "price": 119.99,
+      "category": "Outdoors",
+      "image": "https://wallpapers.com/images/hd/easy-setup-tent-png-uxr-go9x6b14od79k9vv.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Wireless Keyboard",
+      "description": "Compact keyboard with a long-lasting rechargeable battery.",
+      "price": 34.99,
+      "category": "Electronics",
+      "image": "https://m.media-amazon.com/images/I/61P7MvyRbUL.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Vacuum Cleaner",
+      "description": "Lightweight and powerful vacuum cleaner for home use.",
+      "price": 149.99,
+      "category": "Home",
+      "image": "https://media.istockphoto.com/id/1395191692/photo/vacuum-cleaner-isolated-on-white.jpg?s=612x612&w=0&k=20&c=1Dst6yz3ehCO3tJjroVHavBj1nFP-v3O2zyCiJb-tF4="
+    },
+    {
+      "id": 24,
+      "name": "Tablet Stand",
+      "description": "Sturdy stand compatible with tablets and smartphones.",
+      "price": 18.99,
+      "category": "Accessories",
+      "image": "https://m.media-amazon.com/images/I/61g5oNYd1LL.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Gaming Chair",
+      "description": "Comfortable gaming chair with adjustable armrests and recline.",
+      "price": 229.99,
+      "category": "Furniture",
+      "image": "https://homedesign.pk/2415-large_default/gaming-chair-gr-pure-black-hd-oc-003.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Winter Jacket",
+      "description": "Insulated jacket designed to keep you warm in cold weather.",
+      "price": 99.99,
+      "category": "Clothing",
+      "image": "https://cdn.dsmcdn.com/mnresize/400/-/ty1590/prod/QC/20241021/14/b3ca13be-46d7-39a1-92dc-5c22dd1c76a6/1_org_zoom.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Electric Scooter",
+      "description": "Foldable electric scooter with a range of 15 miles.",
+      "price": 399.99,
+      "category": "Outdoors",
+      "image": "https://w0.peakpx.com/wallpaper/806/832/HD-wallpaper-vespa-elettrica-2018-bikes-scooter-electric-bikes-vespa-thumbnail.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Coffee Maker",
+      "description": "Programmable coffee maker with a built-in grinder.",
+      "price": 89.99,
+      "category": "Kitchen",
+      "image": "https://m.media-amazon.com/images/I/71WmzPH9BIL.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Smart Bulbs",
+      "description": "Wi-Fi-enabled LED bulbs with adjustable brightness and color.",
+      "price": 34.99,
+      "category": "Electronics",
+      "image": "https://m.media-amazon.com/images/I/5134YuGxRZL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Electric Toothbrush",
+      "description": "Rechargeable toothbrush with multiple cleaning modes.",
+      "price": 44.99,
+      "category": "Personal Care",
+      "image": "https://png.pngtree.com/thumb_back/fw800/background/20231005/pngtree-basic-toothbrush-vs-innovative-electric-toothbrush-3d-rendering-on-a-white-image_13553885.png"
+    },
+    {
+      "id": 31,
+      "name": "Noise-Canceling Microphone",
+      "description": "Professional-grade microphone with noise-canceling technology.",
+      "price": 109.99,
+      "category": "Electronics",
+      "image": "https://m.media-amazon.com/images/I/61iJbZw+4JL.jpg"
+    },
+    {
+      "id": 32,
+      "name": "Adjustable Dumbbells",
+      "description": "Space-saving adjustable dumbbells for strength training.",
+      "price": 129.99,
+      "category": "Fitness",
+      "image": "https://media.istockphoto.com/id/1374747351/photo/modern-adjustable-dumbbell-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=gL9rnjr8N1LYx3Zc9QPOb_shIDChXPfD5xhxBBuIR5M="
+    },
+    {
+      "id": 33,
+      "name": "Streaming Webcam",
+      "description": "1080p HD webcam for live streaming and video calls.",
+      "price": 69.99,
+      "category": "Electronics",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5CtMR6Z4O-IdP28MnE-Ro6Ji2ApsH1kF0Lg&s"
+    },
+    {
+      "id": 34,
+      "name": "Pet Bed",
+      "description": "Soft and comfortable bed for cats and dogs.",
+      "price": 29.99,
+      "category": "Pet Supplies",
+      "image": "https://i5.walmartimages.com/asr/f923c12e-0de0-4e97-bf6b-ca5e09520041.cfb362bdf68a449cc7d85a57d7d7d7bf.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
+    },
+    {
+      "id": 35,
+      "name": "Bookshelf",
+      "description": "Modern wooden bookshelf with 5 spacious shelves.",
+      "price": 159.99,
+      "category": "Furniture",
+      "image": "https://m.media-amazon.com/images/I/81jhqmljBgL.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Action Camera",
+      "description": "Waterproof action camera with 4K video recording.",
+      "price": 249.99,
+      "category": "Electronics",
+      "image": "https://smars.in/wp-content/uploads/2024/07/cam-1.jpg"
+    },
+    {
+      "id": 37,
+      "name": "Portable Air Purifier",
+      "description": "Compact air purifier with HEPA filter for clean air.",
+      "price": 79.99,
+      "category": "Home",
+      "image": "https://static.toiimg.com/thumb/msid-105019562,width-1280,height-720,imgsize-18788,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+    },
+    {
+      "id": 38,
+      "name": "Board Game",
+      "description": "Fun and engaging board game for family and friends.",
+      "price": 29.99,
+      "category": "Toys",
+      "image": "https://m.media-amazon.com/images/I/81DyQc6ckZL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 39,
+      "name": "Electric Grill",
+      "description": "Indoor grill with adjustable temperature control.",
+      "price": 89.99,
+      "category": "Kitchen",
+      "image": "https://5.imimg.com/data5/ECOM/Default/2024/5/423419290/PD/JA/CB/129102397/1-c09172a6-9c9a-4329-9994-164edc95aca2-500x500.jpg"
+    },
+    {
+      "id": 40,
+      "name": "Robot Vacuum",
+      "description": "Smart robot vacuum with Wi-Fi connectivity and scheduling.",
+      "price": 299.99,
+      "category": "Home",
+      "image":"https://i5.walmartimages.com/seo/Clearance-Household-Cleaning-And-Sweeping-Machine-Intelligent-Robot-Automatic-Water-Tank-Dragging-Integrated-Vacuum-Cleaner_9e7187ed-f2c1-4c8c-b592-0b1bb40fc8ed.5976e61a0e7ee3da722815993a6e3ca4.jpeg?odnHeight=264&odnWidth=264&odnBg=FFFFFF"
+    },
+    {
+      "id": 41,
+      "name": "Trail Running Backpack",
+      "description": "Lightweight backpack for hydration and gear on the trails.",
+      "price": 69.99,
+      "category": "Outdoors",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj7IuVsPkXk42BHTyhWOn2W3oCJWejV6iD0L05B6DLnZpidVhmrTPCG6mvJ_lVICUXVes&usqp=CAU"
+    },
+    {
+      "id": 42,
+      "name": "Waterproof Hiking Boots",
+      "description": "Durable boots with excellent grip for hiking.",
+      "price": 119.99,
+      "category": "Footwear",
+      "image": "https://m.media-amazon.com/images/I/41T0D64L5sL._SL500_.jpg"
+    },
+    {
+      "id": 43,
+      "name": "Kitchen Knife Set",
+      "description": "Premium stainless steel knife set with wooden block.",
+      "price": 149.99,
+      "category": "Kitchen",
+      "image":"https://m.media-amazon.com/images/I/81FdV3sIFzL.jpg"
+    },
+    {
+      "id": 44,
+      "name": "Portable Projector",
+      "description": "Mini projector with 1080p support for home entertainment.",
+      "price": 199.99,
+      "category": "Electronics",
+      "image" : "https://www.portronics.com/cdn/shop/files/Projector_Beem440.jpg?v=1731924198"
+    },
+    {
+      "id": 45,
+      "name": "Electric Blanket",
+      "description": "Cozy electric blanket with adjustable heat settings.",
+      "price": 59.99,
+      "category": "Home",
+      "image": "https://i5.walmartimages.com/asr/b52c0ac6-2a91-4a3b-a164-caeece7fcf96.14150e4dd11edb8a618bc0d155c53e55.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
+    },
+    {
+      "id": 46,
+      "name": "Wireless Gaming Controller",
+      "description": "Ergonomic controller compatible with multiple platforms.",
+      "price": 64.99,
+      "category": "Electronics",
+      "image": "https://s.alicdn.com/@sc04/kf/H0033897be966413cbbb68367b1e6ff51L.jpg_720x720q50.jpg"
+    },
+    {
+      "id": 47,
+      "name": "Standing Desk",
+      "description": "Height-adjustable desk for sitting or standing work.",
+      "price": 299.99,
+      "category": "Furniture",
+      "image": "https://static.ajproducts.com/cdn-cgi/image/width=770/globalassets/912747.jpg?ref=936B35C0C8"
+    },
+    {
+      "id": 48,
+      "name": "Baby Monitor",
+      "description": "Wi-Fi-enabled baby monitor with two-way audio and video.",
+      "price": 129.99,
+      "category": "Baby",
+      "image":"https://images-cdn.ubuy.co.in/6372de2b7dea8346eb7ad3ee-video-baby-monitor-with-remote.jpg"
+    },
+    {
+      "id": 49,
+      "name": "Foam Roller",
+      "description": "High-density foam roller for muscle recovery and massage.",
+      "price": 21.99,
+      "category": "Fitness",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmC3M08c2CzF_eFkZ2QQuI7UFiOA9LSSiA-zdYND-T_NsQOuBVgGk9Zb-91bcjco7oJso&usqp=CAU"
+    },
+    {
+      "id": 50,
+      "name": "Portable Fan",
+      "description": "Rechargeable portable fan with multiple speed settings.",
+      "price": 29.99,
+      "category": "Home",
+      "image":"https://m.media-amazon.com/images/I/610g2Vc-J2L.jpg"
+    }
+  ]
+  
